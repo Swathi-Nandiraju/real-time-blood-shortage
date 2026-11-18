@@ -50,9 +50,7 @@ It combines rule-based shortage risk assessment, cryptographic hashing, and expl
 
 ## 🏗️ System Architecture
 
-The following architecture illustrates the interaction between users, frontend, backend, database, blockchain, and the shortage risk assessment and XAI modules.
-
-![System Architecture](docs/architecture.png)
+The following architecture illustrates the interaction between users, frontend, backend, database, blockchain, and the shortage risk assessment and XAI modules
 
 ### Architecture Components
 
@@ -198,9 +196,6 @@ real-time-blood-shortage/
 │   └── 002-seed-data.sql
 │
 ├── styles/
-│
-├── docs/
-│   └── architecture.png
 │
 ├── .gitignore
 ├── package.json
