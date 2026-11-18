@@ -283,28 +283,29 @@ http://localhost:3000
 ## 📸 Application Screenshots
 
 ### 1. Dashboard
-
-![Dashboard](docs/screenshots/dashboard.png)
+![Dashboard](<Dashboard.png>)
 
 ### 2. Blood Inventory Management
-
-![Blood Inventory](docs/screenshots/inventory.png)
+![Blood Inventory](<Inventory.png>)
 
 ### 3. Donor Management
-
-![Donor Management](docs/screenshots/donors.png)
+![Donor Network](<Donor Network.png>)
 
 ### 4. Blood Request Management
-
-![Blood Requests](docs/screenshots/requests.png)
+![Blood Requests](<Blood Requests.png>)
 
 ### 5. Blockchain Transaction Records
-
-![Blockchain](docs/screenshots/blockchain.png)
+![Blockchain](<Blockchain.png>)
 
 ### 6. Shortage Risk Assessment and XAI
+![Explainable AI](<Explainable AI.png>)
 
-![XAI](docs/screenshots/xai.png)
+## 🏗️ System Architecture
+
+![System Architecture](<SystemArchitecture.png>)
+
+
+
 
 ---
 
@@ -312,7 +313,7 @@ http://localhost:3000
 
 Watch the project demonstration to understand the application's major functionalities, workflow, and implementation.
 
-**[▶ Watch Project Execution Video](ADD_YOUR_VIDEO_LINK_HERE)**
+**[▶ Watch Project Execution Video](https://drive.google.com/file/d/1Y75D3uN5WvxuAIbao5QvzzZ3aCfCAeOT/view?usp=drive_link)**
 
 ---
 
